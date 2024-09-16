@@ -8,3 +8,8 @@ p{
     font-family: 'Times New Roman', Times, serif;
     text-align: justify;
 }
+
+span{
+    font-size: 12px;
+    font-weight: 700;
+}
